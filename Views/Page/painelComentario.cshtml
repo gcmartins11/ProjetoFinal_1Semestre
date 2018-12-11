@@ -1,0 +1,70 @@
+@using Senai.ProjetoFinal.Models;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" media="screen" href="~/css/painel-style.css" />
+    <title>Painel de controle - Usuários</title>
+</head>
+<body>
+    
+    <div class="sidebar">
+        <a href="/Page/PainelUsuario">Usuários</a>
+        <a href="/Page/PainelComentario">Depoimentos</a>
+        <a href="/Comentario/Comentarios">Página inicial</a>
+    </div>
+
+    <center>
+
+        <div class="content">
+            <table>
+                <tr>
+                    <th>ID</th>
+                    <th>ID Logado</th>
+                    <th>Nome Usuario</th>
+                    <th>Texto</th>
+                    <th>Aprovado</th>
+                    <th>DataPublicacao</th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                @foreach (ComentarioModel comentario in ViewData["Comentarios"] as List<ComentarioModel>) {
+                <tr class="row">
+                    <td>
+                        @comentario.Id
+                    </td>
+                    <td>
+                        @comentario.IdLogado
+                    </td>
+                    <td>
+                        @comentario.NomeLogado
+                    </td>
+                    <td>
+                        @comentario.Texto
+                    </td>
+                    <td>
+                        @comentario.Aprovado
+                    </td>
+                    <td>
+                        @comentario.DataPublicacao
+                    </td>
+                    <td>
+                        <a href="/Comentario/Aprovar?id=@comentario.Id">Aprovar</a>
+                    </td>
+                    <td>
+                        <a href="/Comentario/Reprovar?id=@comentario.Id">Reprovar</a>
+                    </td>
+                    <td>
+                        <a href="/Comentario/Excluir?id=@comentario.Id">Excluir</a>
+                    </td>
+                </tr>
+                }
+            </table>
+        </div>
+    </center>
+        
+</body>
+</html>

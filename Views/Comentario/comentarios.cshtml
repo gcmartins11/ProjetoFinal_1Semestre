@@ -1,0 +1,81 @@
+@using Senai.ProjetoFinal.Models;
+@using Senai.ProjetoFinal.Controllers;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Comentários</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="~/css/comentarios-style.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+    <nav>
+        <img src="img/logo-horizontal.png" alt="">
+
+        <div class="pages">
+            @if (UsuarioController.usuarioLogado != null && UsuarioController.usuarioLogado.Adm == true)
+            {
+                <a href="/Page/PainelUsuario" >Painel de controle</a>
+            }
+            <a href="" >Depoimentos</a>
+            <a href="" >Nossa história</a>
+            <a href="" >Sobre o Checkpoint</a>
+            <a href="" >Contato</a>
+            @if (UsuarioController.usuarioLogado == null)
+            {
+            <a href="/Usuario/LoginCadastrar">Fazer login</a>
+            }
+            @if (UsuarioController.usuarioLogado != null)
+            {
+            <a href="/Usuario/Deslogar">Deslogar</a>
+            }
+        </div>
+    </nav>
+    
+    <h2>Depoimentos</h2>
+
+    <main>
+        
+        @if (UsuarioController.usuarioLogado != null)
+        {
+        <h3>Escreva um depoimento</h3>
+            <form action="/Comentario/Cadastrar" method="POST">
+                <label>
+                        <!-- Depoimento -->
+                    <input type="text" name="texto" placeholder="Depoimento">
+                </label>
+                <input type="submit" value="Publicar" style="width: 80%; margin-top: 10px;">
+                <center>
+                <h4>
+                @TempData["Mensagem"]
+                </h4>
+                </center>
+            </form>
+        }
+        
+
+        @foreach (ComentarioModel comentario in ViewData["Comentarios"] as List<ComentarioModel>) {
+            @if (comentario.Aprovado == true)
+            {
+                
+        <div class="comentario">
+            <div class="comentario-top">
+                @comentario.NomeLogado
+            </div>
+
+            <div class="comentario-bottom">
+                <p>
+                    @comentario.Texto
+                </p>
+            </div>
+        </div>
+            }
+        }
+
+    </main>
+
+</body>
+</html>

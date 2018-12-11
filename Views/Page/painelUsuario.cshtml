@@ -1,0 +1,59 @@
+@using Senai.ProjetoFinal.Models;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" media="screen" href="~/css/painel-style.css" />
+    <title>Painel de controle - Usuários</title>
+</head>
+<body>
+    
+    <div class="sidebar">
+        <a href="/Page/PainelUsuario">Usuários</a>
+        <a href="/Page/PainelComentario">Depoimentos</a>
+        <a href="/Comentario/Comentarios">Página inicial</a>
+    </div>
+
+    <center>
+
+        
+        <div class="content">
+            <table>
+                <tr>
+                    <th>ID</th>
+                    <th>Nome</th>
+                    <th>Email</th>
+                    <th>Senha</th>
+                    <th>Adm</th>
+                    <th></th>
+                </tr>
+                @foreach (UsuarioModel usuario in ViewData["Usuarios"] as List<UsuarioModel>) {
+                <tr class="row">
+                    <td>
+                        @usuario.Id
+                    </td>
+                    <td>
+                        @usuario.Nome
+                    </td>
+                    <td>
+                        @usuario.Email
+                    </td>
+                    <td>
+                        @usuario.Senha
+                    </td>
+                    <td>
+                        @usuario.Adm
+                    </td>
+                    <td>
+                        <a href="/Usuario/Excluir?id=@usuario.Id">Excluir</a>
+                    </td>
+                </tr>
+                }
+            </table>
+        </div>
+    </center>
+        
+</body>
+</html>

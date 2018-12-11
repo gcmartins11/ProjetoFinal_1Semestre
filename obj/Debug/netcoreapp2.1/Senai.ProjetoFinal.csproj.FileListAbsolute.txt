@@ -1,0 +1,79 @@
+E:\Senai Projeto Final\Senai.ProjetoFinal\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.deps.json
+E:\Senai Projeto Final\Senai.ProjetoFinal\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.runtimeconfig.json
+E:\Senai Projeto Final\Senai.ProjetoFinal\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.runtimeconfig.dev.json
+E:\Senai Projeto Final\Senai.ProjetoFinal\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.dll
+E:\Senai Projeto Final\Senai.ProjetoFinal\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.pdb
+E:\Senai Projeto Final\Senai.ProjetoFinal\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.Views.dll
+E:\Senai Projeto Final\Senai.ProjetoFinal\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.Views.pdb
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.csprojAssemblyReference.cache
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.csproj.CoreCompileInputs.cache
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorAssemblyInfo.cache
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorAssemblyInfo.cs
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.AssemblyInfoInputs.cache
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.AssemblyInfo.cs
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.TagHelpers.input.cache
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.TagHelpers.output.cache
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorCoreGenerate.cache
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorTargetAssemblyInfo.cache
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorTargetAssemblyInfo.cs
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.Views.pdb
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.dll
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.pdb
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.csproj.CopyComplete
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\comentarios.g.cshtml.cs
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\listar.g.cshtml.cs
+E:\Senai Projeto Final\Senai.ProjetoFinal\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\zcomentarios.g.cshtml.cs
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.deps.json
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.runtimeconfig.json
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.runtimeconfig.dev.json
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.dll
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.pdb
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.Views.dll
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.Views.pdb
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.csprojAssemblyReference.cache
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorAssemblyInfo.cache
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorAssemblyInfo.cs
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.AssemblyInfo.cs
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.TagHelpers.input.cache
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.TagHelpers.output.cache
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorCoreGenerate.cache
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\listar.g.cshtml.cs
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorTargetAssemblyInfo.cache
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorTargetAssemblyInfo.cs
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.Views.pdb
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.dll
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.pdb
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.csproj.CopyComplete
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\LoginCadastrar.g.cshtml.cs
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.deps.json
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.runtimeconfig.json
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.runtimeconfig.dev.json
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.dll
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.pdb
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.Views.dll
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\bin\Debug\netcoreapp2.1\Senai.ProjetoFinal.Views.pdb
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.csprojAssemblyReference.cache
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorAssemblyInfo.cache
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorAssemblyInfo.cs
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.AssemblyInfo.cs
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.TagHelpers.input.cache
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.TagHelpers.output.cache
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorCoreGenerate.cache
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\LoginCadastrar.g.cshtml.cs
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorTargetAssemblyInfo.cache
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.RazorTargetAssemblyInfo.cs
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.Views.pdb
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.dll
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.pdb
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Senai.ProjetoFinal.csproj.CopyComplete
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Razor\Views\Comentario\Listar.g.cshtml.cs
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Razor\Views\Comentario\comentarios.g.cshtml.cs
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Razor\Views\Comentario\comentarios.g.cshtml.cs
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Razor\Views\Page\AcessoNegado.g.cshtml.cs
+C:\Users\Cardoso\Projects\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Razor\Views\Page\AcessoNegado.g.cshtml.cs
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Razor\Views\Page\painelusuario.g.cshtml.cs
+C:\Users\45346351841\Documents\Projetos\senai-projeto-primeiro-semestre\obj\Debug\netcoreapp2.1\Razor\Views\Page\painelComentario.g.cshtml.cs
